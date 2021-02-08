@@ -1,0 +1,8 @@
+RENCANA TOKO ONLINE
+
+- Javascript
+  * ES6
+  * Framework Javascript 
+- PHP Frameworks
+- Interview
+- Toko Online
