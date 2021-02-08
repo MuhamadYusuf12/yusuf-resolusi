@@ -2,5 +2,5 @@ Yusuf Resolusi
 - Konsisten belajar Web Programming
 - Membuat website sendiri
 - Membuat forum diskusi
-- Membuat toko online
 - Kolaborasi dengan banyak expert
+- membuat e-commerce
