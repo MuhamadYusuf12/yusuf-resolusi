@@ -2,7 +2,7 @@ RENCANA TOKO ONLINE
 
 - Javascript
   * ES6
-  * Framework Javascript 
+  * Framework Javascript
     ^ Vue
     ^ React
 - Struktur data dasar
